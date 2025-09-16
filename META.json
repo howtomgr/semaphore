@@ -1,0 +1,61 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:59.049223",
+  "default_ports": [
+    80,
+    443,
+    3000
+  ],
+  "dependencies": [],
+  "description": "semaphore is a free and open-source modern UI for Ansible. Semaphore provides a web UI for Ansible with scheduling, notifications, and access control, serving as an open-source alternative to Ansible Tower/AWX",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/semaphore",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/semaphore",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.049249",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "semaphore",
+  "repository_url": "https://github.com/howtomgr/semaphore",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "semaphore Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/semaphore"
+}
